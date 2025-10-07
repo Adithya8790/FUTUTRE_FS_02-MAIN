@@ -170,5 +170,5 @@ LocalStorage is used only for temporary frontend state; backend ensures persiste
 
 👤 Author
 
-Kethavath Naveen
+Adithya Kaluvala
 Full-stack developer | React & Node.js Enthusiast
